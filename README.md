@@ -12,6 +12,9 @@ Bookmarklet for [12ft Ladder](https://12ft.io/), a paywall bypassing service
 
 ## How to use 12ft Bookmarklet
 
-Click (hold) and drag [12ft Bookmarklet link](javascript:void(location.href='https://12ft.io/'+location.href);) to the bookmarks/favorite bar. Alternatively, you can right click the above link and select "Bookmark Link..."/"Add to favorites..." or make a blank bookmark and the code from the `.js` file as URL.
+GitHub Markdown [doesn't allow scripts in README.md files](https://stackoverflow.com/a/21340902/10544368), so the bookmarklet needs to be added manually. To do that, you
 
-You can rename the bookmark as you wish. It will work as long as the JavaScript script is the same.
+1) Copy the following script: `javascript:void(location.href='https://12ft.io/'+location.href);`
+2) In your browser, right-click on the bookmarks/favourites toolbar and select "Add Bookmark..." or something similar, depending on your browser.
+3) Paste the script into the URL/Link field and save the bookmark
+4) Optionally, name/rename the bookmark
