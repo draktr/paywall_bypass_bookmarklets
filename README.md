@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HHAQBWC4BMVH5WQ8TZB69N8F
-  version: v2.0
----
-
 # Paywall Bypass Bookmarklets
 
 One click to bypass a paywall. Two at most.
